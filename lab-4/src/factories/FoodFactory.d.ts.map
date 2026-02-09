@@ -1,0 +1,1 @@
+{"version":3,"file":"FoodFactory.d.ts","sourceRoot":"","sources":["FoodFactory.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,0BAA0B,CAAC;AAClE,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAE9C,qBAAa,WAAY,YAAW,sBAAsB;IACxD,aAAa,CAAC,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,OAAO;CASpE"}

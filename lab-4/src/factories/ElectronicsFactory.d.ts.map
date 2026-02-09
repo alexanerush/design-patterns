@@ -1,0 +1,1 @@
+{"version":3,"file":"ElectronicsFactory.d.ts","sourceRoot":"","sources":["ElectronicsFactory.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,0BAA0B,CAAC;AAClE,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAE9C,qBAAa,kBAAmB,YAAW,sBAAsB;IAC/D,aAAa,CAAC,IAAI,EAAE,MAAM,EAAE,KAAK,EAAE,MAAM,EAAE,MAAM,EAAE,MAAM,GAAG,OAAO;CASpE"}

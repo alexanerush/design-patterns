@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractProductFactory.d.ts","sourceRoot":"","sources":["AbstractProductFactory.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAE9C,MAAM,WAAW,sBAAsB;IACrC,aAAa,CACX,IAAI,EAAE,MAAM,EACZ,KAAK,EAAE,MAAM,EACb,MAAM,EAAE,MAAM,GACb,OAAO,CAAC;CACZ"}

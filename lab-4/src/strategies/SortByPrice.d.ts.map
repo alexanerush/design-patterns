@@ -1,0 +1,1 @@
+{"version":3,"file":"SortByPrice.d.ts","sourceRoot":"","sources":["SortByPrice.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,qBAAqB,CAAC;AAC9C,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,qBAAa,WAAY,YAAW,YAAY;IAC9C,IAAI,CAAC,KAAK,EAAE,OAAO,EAAE,GAAG,OAAO,EAAE;CAGlC"}
