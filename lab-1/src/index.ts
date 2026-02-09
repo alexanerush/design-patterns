@@ -1,7 +1,7 @@
 import { Point } from './entities/Point';
 import { Rectangle } from './entities/Rectangle';
 import { RectangleService } from './services/RectangleService';
-import { Cube } from './entities/Сube';
+import { Cube } from './entities/Cube';
 import { CubeService } from './services/CubeService';
 
 console.log('=== RECTANGLE ===');

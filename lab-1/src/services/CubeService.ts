@@ -1,4 +1,4 @@
-import { Cube } from '../entities/Сube';
+import { Cube } from '../entities/Cube';
 
 export class CubeService {
   public isValid(cube: Cube): boolean {
